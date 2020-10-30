@@ -2,6 +2,8 @@
 
 A new Flutter application.
 
+![](images/my_card_project.png)
+
 ## Getting Started
 
 This project is a starting point for a Flutter application.
